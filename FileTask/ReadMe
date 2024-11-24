@@ -1,0 +1,1 @@
+Асинхронное File.WriteAllTextAsync - не находит метод в File, поэтому без него.
